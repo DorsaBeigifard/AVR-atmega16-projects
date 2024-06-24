@@ -4,7 +4,7 @@ This repository contains my atmega16 microcontroller projects from university. T
 
 ## Projects
 
-1. [**Calculator using a Keypad**](./projects/calculator-keypad)
+1. [**Calculator using Keypad**](./projects/calculator-keypad)
 2. [**Counter using 7segments**](./projects/counter-7segment)
 3. [**Temperature Sensor using ADC**](./projects/temperature-sensor-ADC)
 4. [**Timer using LCD**](./projects/timer-LCD)
